@@ -12,6 +12,7 @@
     - [Unordered List of Programming Languages](#unordered-list-of-programming-languages)
     - [Stylings](#stylings)
     - [Lab Task List](#lab-task-list)
+    - [README.md](#readmemd)
 
 ### About Me
 Hello, I am second-year student at UCSD majoring in Computer Science and minoring in Mathematics.
@@ -62,3 +63,6 @@ function helloWorld() {
 - [x] Lab 1
 - [ ] Lab 2
 - [ ] Lab 3
+  
+### README.md
+[README](README.md)
