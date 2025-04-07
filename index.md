@@ -16,7 +16,7 @@
 Hello, I am second-year student at UCSD majoring in Computer Science and minoring in Mathematics.
 
 ### My Headshot
-![A photo of me](headshot.jpg)
+![A photo of me](headshot.jpeg)
 
 ### My Favorite Bible Verse
 > "Cast all your anxieties on him, because he cares for you" 1 Peter 5:7
@@ -25,7 +25,7 @@ Hello, I am second-year student at UCSD majoring in Computer Science and minorin
 `inline code`
 
 ```javascript
-// This is a code block
+// code block
 function helloWorld() {
   console.log("Hello, world!");
 }
