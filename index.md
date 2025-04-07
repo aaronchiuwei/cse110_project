@@ -8,8 +8,8 @@
     - [Visit My LinkedIn](#visit-my-linkedin)
     - [My Favorite Bible Verse](#my-favorite-bible-verse)
     - [Code Examples](#code-examples)
-    - [Ordered Watch List](#ordered-watch-list)
-    - [Unordered List of Programming Languages](#unordered-list-of-programming-languages)
+    - [Watch List](#watch-list)
+    - [List of Programming Languages](#list-of-programming-languages)
     - [Stylings](#stylings)
     - [Lab Task List](#lab-task-list)
     - [README.md](#readmemd)
@@ -18,7 +18,7 @@
 Hello, I am second-year student at UCSD majoring in Computer Science and minoring in Mathematics.
 
 ### My Headshot
-![A photo of me](headshot.jpeg)
+[Link to my headshot](headshot.jpeg)
 
 ### Visit My LinkedIn
 [LinkedIn](https://www.linkedin.com/in/aaronchiuwei/)
@@ -36,12 +36,12 @@ function helloWorld() {
 }
 ```
 
-### Ordered Watch List
+### Watch List
 1. Paradise
 2. White Lotus
 3. How To Make Millions Before Grandma Dies
 
-### Unordered List of Programming Languages
+### List of Programming Languages
 - Python
 - Java
 - C++
@@ -55,7 +55,7 @@ function helloWorld() {
 - ARM Assembly
 
 ### Stylings
-<br>*italic*
+*italic*
 <br>**bold**
 <br>***bold and italic***
 
